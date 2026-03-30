@@ -1,0 +1,12 @@
+{
+  "input_dir": "C:\\Users\\91593\\Desktop\\image-adaptation-lab\\sample_images",
+  "total_images": 2,
+  "by_extension": {
+    ".jpg": 1,
+    ".png": 1
+  },
+  "files": [
+    "C:\\Users\\91593\\Desktop\\image-adaptation-lab\\sample_images\\4-1-Time and Weight Defrost.jpg",
+    "C:\\Users\\91593\\Desktop\\image-adaptation-lab\\sample_images\\h20m0bp1hi_front_clear.png.png"
+  ]
+}
